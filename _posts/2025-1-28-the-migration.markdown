@@ -35,9 +35,9 @@ oh...
 I'm not supposed to reveal that yet...
 here's some stuff i have been cooking up within the deep depths of the roblox studio with the power of lua scripting
 
-![gifty burning while bon stands beside her]({{ site.baseurl }}/images/robloxteaser/1.png)
-![a roblox dummy being ragdolled into the walls of the lost temple in crossroads]({{ site.baseurl }}/images/robloxteaser/2.png)
-![gifty learning how to throw hands]({{ site.baseurl }}/images/robloxteaser/3.png)
+![gifty burning while bon stands beside her](/images/robloxteaser/1.png)
+![a roblox dummy being ragdolled into the walls of the lost temple in crossroads](/images/robloxteaser/2.png)
+![gifty learning how to throw hands](/images/robloxteaser/3.png)
 
 I do not promise this game will be out at a reasonable timeframe and may be scrapped at any time without notice.
 
@@ -48,4 +48,4 @@ That's all folks!
 
 P.S. Here's a image for when the blog posts are missing BUT you'll never going to see this anyways since this post will ALWAYS have at least one post :3
 
-![starstruck wondering where the end is]({{ site.baseurl }}/images/no_blog_posts.svg)
+![starstruck wondering where the end is](/images/no_blog_posts.svg)

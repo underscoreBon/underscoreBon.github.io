@@ -10,21 +10,15 @@ title: n_bonnie2 - Blog Posts
 <div class="posts">
 
   <h3 id="siteupdates">Posts</h3>
+
   {% for post in site.categories.site %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></li></h2>
-  📅 posted on: {{ post.date | date: "%B %e, %Y" }} - By: {{post.author}}
+  <p1><a href="{{ post.url }}">{{ post.title }}</a></li></p1>
+   - 📅 {{ post.date | date: "%B %e, %Y" }}
   <div class="entry">
-    <caption>
+    <small>
       {{ post.excerpt }}
-    </caption>
-    
+    </small>
   </div>
-  {% else %}
-  <p class="pixel_font">
-    OOPS! There are no posts in this category!... yet, check back later!
-    <br>
-    <img class="keep_aspect half_image" src="/images/no_blog_posts.svg" alt="starstruck wondering where the posts are" width="300"> </img>
-  </p>
   {% endfor %}
 
   <a href="#">Back To Top</a>

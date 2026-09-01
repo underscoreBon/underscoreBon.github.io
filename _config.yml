@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+site.baseurl: "" #no...
 name: n_bonnie2’s Website
 page.title: n_bonnie2’s Website
 title: n_bonnie2’s Website
